@@ -51,4 +51,4 @@ Anchored in enhancing the transparency and wisdom of consumer decision-making, o
 
 
 # Logo
-![RateIt Logo](/logo/rateit-logo.png)
+![RateIt Logo](/logo)
