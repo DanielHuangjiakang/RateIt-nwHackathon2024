@@ -48,3 +48,7 @@ When seeking quality services, everyone's experience is **of paramount importanc
 We plan to design an intuitive, user-friendly interface to make browsing, discovering, and participating effortless. Our design team is already working on the preliminary UI design, and we look forward to your valuable feedback. Together, we aim to shape this platform to be more aligned with our users' needs.
 
 Anchored in enhancing the transparency and wisdom of consumer decision-making, our platform welcomes everyone to contribute because here, every rating can guide someone else.
+
+
+# Logo
+![RateIt Logo](/logo/rateit-logo.png)
