@@ -27,3 +27,25 @@ To set up the project locally, follow these steps:
 We welcome contributions to the RateIt project. Please read our contribution guidelines before submitting a pull request.
 
 ## License
+
+
+
+## Proposal
+# RateIt
+
+## Project Introduction
+
+When seeking quality services, everyone's experience is **of paramount importance**. Our project, **RateIt**, is dedicated to creating a comprehensive community-driven platform that integrates ratings and discussions, helping users to share and explore real-life experiences with various service facilities.
+
+### Our Core Philosophy
+
+"**Experience First, Choose Wisely.**" On this platform, users will be able to:
+
+- **Discover Genuine Ratings**: Navigate through a multitude of themes and sectors to find detailed evaluations of services by other users.
+- **Express Freely**: Share personal experiences, post ratings and reviews, guiding and enlightening fellow community members.
+- **Establish Connections**: Build relationships with like-minded individuals, create or join social circles.
+- **Engage in In-depth Discussions**: Participate in discussions within an open and inclusive environment, exchanging perspectives.
+
+We plan to design an intuitive, user-friendly interface to make browsing, discovering, and participating effortless. Our design team is already working on the preliminary UI design, and we look forward to your valuable feedback. Together, we aim to shape this platform to be more aligned with our users' needs.
+
+Anchored in enhancing the transparency and wisdom of consumer decision-making, our platform welcomes everyone to contribute because here, every rating can guide someone else.
