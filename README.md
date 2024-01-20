@@ -51,5 +51,4 @@ Anchored in enhancing the transparency and wisdom of consumer decision-making, o
 
 
 # Logo
-![RateIt Logo](/logo)
-<img src="/logo" alt="RateIt Logo" width="100">
+<img src="/logo" alt="RateIt Logo" width="500">
