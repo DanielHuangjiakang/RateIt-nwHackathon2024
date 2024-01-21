@@ -73,12 +73,6 @@ body {
     margin-bottom: 15px;
 }
 
-.popular-categories img {
-    width: 50px;
-    height: 50px;
-    border-radius: 50%;
-}
-
 .popular-categories p {
     margin: 5px 0;
 }
@@ -107,10 +101,6 @@ body {
     box-shadow: 0 2px 4px rgba(0,0,0,0.1);
 }
 
-.top-3-category img {
-    border-radius: 50%;
-}
-
 .top-3-category h4 {
     margin: 0;
     color: #333;
@@ -126,14 +116,6 @@ body {
     color: white;
     padding: 5px 10px;
     border-radius: 5px;
-}
-
-
-.subcategory img {
-    width: 50px; /* Set a fixed width for images */
-    height: 50px; /* Set a fixed height for images */
-    border-radius: 50%;
-    object-fit: cover; /* Ensure the aspect ratio is maintained */
 }
 
 .subcategory {
@@ -157,3 +139,64 @@ body {
 .subcategory:not(:last-child) {
     margin-bottom: 20px; /* Increase space between subcategory divs */
 }
+
+.title-votes-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.title-votes-container h2 {
+    color: rgb(233, 86, 110);
+    margin: 0; /* Remove default margin */
+}
+
+.title-votes-container span {
+    background-color: rgb(233, 86, 110);
+    color: white;
+    padding: 5px 10px;
+    border-radius: 5px;
+    margin: 0; /* If needed to align properly */
+}
+
+/* Adjust the size of the second game company's image */
+.game-company:nth-of-type(2) img {
+    max-width: 100px; /* Set a maximum width */
+    height: auto; /* Maintain the aspect ratio */
+}
+
+/* Add space between the subcategory items */
+.game-company:not(:last-child) {
+    margin-bottom: 20px; /* Space at the bottom of each game company container */
+}
+
+/* Added styles from HTML inline */
+.custom-style-1 {background-color: rgb(233, 86, 110); padding: 10px; display: flex; align-items: center;}
+.custom-style-2 {color: white; font-size: 24px; font-weight: bold; margin-right: 15px;}
+.custom-style-3 {flex-grow: 1; background-color: white; padding: 5px; border-radius: 5px;}
+.custom-style-4 {width: 100%; border: none; outline: none;}
+.custom-style-5 {display: flex; align-items: center; margin-left: 20px;}
+.custom-style-6 {background-color: #00BFFF; border: none; padding: 10px; color: white; border-radius: 5px;}
+.custom-style-7 {background-color: #f8f9fa; padding: 20px; margin-bottom: 30px;}
+.custom-style-8 {margin-bottom: 20px;}
+.custom-style-9 {background-color: white; margin: 10px 0; padding: 12px; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);}
+.custom-style-10 {background-color: rgb(245,245,245); margin: 10px 0; padding-top: 15px; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);}
+.custom-style-11 {display: flex; align-items: center; justify-content: space-between; margin-bottom: 10px;}
+.custom-style-12 {flex-grow: 1; margin-left: 10px;}
+.custom-style-13 {margin-top: 0px; padding-top: 5px;}
+.custom-style-14 {margin-top: 20px; color: #FFA500;}
+.custom-style-15 {background-color: rgb(233, 86, 110); color: white; padding: 5px 10px; border-radius: 5px;}
+.custom-style-16 {background-color: rgb(245,245,245); margin: 10px 0; padding: 15px 15px 0px 15px; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);}
+.custom-style-17 {margin: 0; color: #FFA500;}
+.subcategory img {
+    margin-bottom: 5px; /* Decrease the bottom margin or padding of the image */
+}
+.custom-style-11 img {
+    width: 50px; /* or any specific width you want */
+
+    max-width: 100%; /* makes sure it doesn't overflow its container */
+    height: 50px; /* maintains the aspect ratio */
+    display: block; /* removes extra space below the image */
+    margin: 10px 0; /* optional: adds space above and below the image */
+}
+
