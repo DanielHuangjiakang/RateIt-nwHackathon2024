@@ -4,6 +4,9 @@
 ## Introduction
 RateIt is an interactive rating platform inspired by the 'Rating' section in the Chinese app Hupu Sports. This English-version application allows users to create custom rating categories for a wide range of subjects, including colleges, game streamers, celebrities, libraries, and even public restrooms.
 
+## Link to the project
+https://danielhuangjiakang.github.io/RateIt/
+
 ## Key Features
 - **Create Custom Categories**: Users can create their own categories for rating anything they choose.
 - **Rate and Review**: Users can rate subjects in various categories and leave reviews.
