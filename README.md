@@ -30,9 +30,9 @@ To set up the project locally, follow these steps:
 We welcome contributions to the RateIt project. Please read our contribution guidelines before submitting a pull request.
 
 ## Contributors:
-Jiakang Huang
-Hongkai Liu
-Shengzhe ji
+- Jiakang Huang
+- Hongkai Liu
+- Shengzhe ji
 
 
 
