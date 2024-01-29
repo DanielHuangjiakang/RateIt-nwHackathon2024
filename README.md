@@ -37,8 +37,6 @@ We welcome contributions to the RateIt project. Please read our contribution gui
 - Hongkai Liu
 - Shengzhe Ji
 
-
-
 # Proposal
 
 ## Project Introduction
