@@ -8,7 +8,7 @@ RateIt is an interactive rating platform inspired by the 'Rating' section in the
 [https://danielhuangjiakang.github.io/RateIt/](https://danielhuangjiakang.github.io/RateIt-nwHackathon2024/)
 
 ## UI Screenshot
-<img src="https://github.com/DanielHuangjiakang/RateIt-nwHackathon2024/blob/main/img/RateItUi.png" width="900" height="600"/>
+<img src="https://github.com/DanielHuangjiakang/RateIt-nwHackathon2024/blob/main/img/RateItUi.png" width="1000" height="600"/>
 
 ## Key Features
 - **Create Custom Categories**: Users can create their own categories for rating anything they choose.
