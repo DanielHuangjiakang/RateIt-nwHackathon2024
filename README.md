@@ -32,7 +32,7 @@ We welcome contributions to the RateIt project. Please read our contribution gui
 ## Contributors:
 - Jiakang Huang
 - Hongkai Liu
-- Shengzhe ji
+- Shengzhe Ji
 
 
 
