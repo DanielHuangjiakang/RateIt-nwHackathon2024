@@ -29,7 +29,10 @@ To set up the project locally, follow these steps:
 ## Contributing
 We welcome contributions to the RateIt project. Please read our contribution guidelines before submitting a pull request.
 
-## License
+## Contributors:
+Jiakang Huang
+Hongkai Liu
+Shengzhe ji
 
 
 
